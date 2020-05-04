@@ -73,6 +73,6 @@ www  WEB部署目录（或者子目录）
 - 在浏览器地址栏中访问站点
 
 ## 图片展示
-![Image text](https://fujinshusheng.github.io/resource/manager/login.png)
 ![Image text](https://fujinshusheng.github.io/resource/manager/article.png)
+
 ![Image text](https://fujinshusheng.github.io/resource/manager/column.png)

@@ -71,3 +71,6 @@ www  WEB部署目录（或者子目录）
 - 开启apache,mysql服务
 - 配置本地站点，将站点根目录绑定在public目录下
 - 在浏览器地址栏中访问站点
+
+## 图片展示
+![Image text](https://fujinshusheng.github.io/resource/manager/login.png)

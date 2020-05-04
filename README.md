@@ -78,4 +78,4 @@ www  WEB部署目录（或者子目录）
 ![Image text](https://fujinshusheng.github.io/resource/manager/column.png)
 
 ## 友情赞助
-![Image text](https://fujinshusheng.github.io/resource/donate/weixin.jpg https://fujinshusheng.github.io/resource/donate/weixin.jpg)
+![Image text](https://fujinshusheng.github.io/resource/donate/donate.gif)
